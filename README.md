@@ -1,0 +1,1 @@
+This project is made to practice the HTML knowledge acquired from the HTML Foundations Course. To demonstrating this I'll create a website full of recipes. The website has an index and many pages linked, with the recipes.
