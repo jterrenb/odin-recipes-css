@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+title {
+    font-size: 36px;
+    text-align: center;
+    color: chocolate;
+}
+
+.recipe-name {
+    font-size: 28px;
+    font-weight: bold;
+    color: brown;
+}
+h2 {
+    font-size: 20px;
+    font-weight: 600;
+    color:orangered;
+}
+ul li {
+    font-style: italic;
+    list-style: circle;
+}
+a {
+    text-decoration: unset;
+}
